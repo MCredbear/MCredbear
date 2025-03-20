@@ -13,6 +13,6 @@
 
 <div align="center">
   <a href="https://github.com/MCredbear/MCredbear">
-    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=c,cpp,python,java,kotlin,rust,scala,js,ts,vue,nuxt&tools=git,docker,redis,postgres&software=linux,windows,vscode&theme=darkmode">
+    <img align="center" src="https://github-widgetbox.vercel.app/api/skills?languages=c,cpp,python,dart,flutter,kotlin,rust,java,scala,js,ts,vue,nuxt&tools=git,docker,redis,postgres&software=linux,windows,vscode&theme=darkmode">
   </a>
 </div>
