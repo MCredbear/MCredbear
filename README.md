@@ -1,9 +1,6 @@
-## Hi there 👋
+## Ciallo~ 
 
-<!--
-**MCredbear/MCredbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+24岁（迫真），学生です。
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- 🧭 Language: Chinese（中文）, Japanese（日本語）, English. Other languages will use the translator.
+- 🔭 MY GUIDING STAR: [Krysztal112233](https://github.com/Krysztal112233/)
